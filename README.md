@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 <h1 align="center"> Ramon Alves </h1>
 
 <h2>Connect</h2>
-- <a href="https://www.instagram.com/ramon_alves.py/" target="_blank"><img src="https://img.shields.io/badge/instagram%20@ramon_alves.py-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-- <a href="https://www.facebook.com/ramon.patricio.355" target="_blank"><img src="https://img.shields.io/badge/facebook%20@ramon.patricio.355-344E86?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-- <a href="https://www.gitshowcase.com/ramonalves1357" target="_blank"><img height="30px" src="https://img.shields.io/badge/GitShowCase%20-8E2DE2?style=for-the-badge&logo=github&logoColor=white"/></a>
-- <a href="https://www.buymeacoffee.com/RamonAlves" target="_blank"><img height="30px" src="https://img.shields.io/badge/ByMeACoffee-f9fbb2?style=for-the-badge&logo=buy-me-a-coffee&Color=white%22"></a>
+ <a href="https://www.instagram.com/ramon_alves.py/" target="_blank"><img src="https://img.shields.io/badge/instagram%20@ramon_alves.py-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+ <a href="https://www.facebook.com/ramon.patricio.355" target="_blank"><img src="https://img.shields.io/badge/facebook%20@ramon.patricio.355-344E86?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+ <a href="https://www.gitshowcase.com/ramonalves1357" target="_blank"><img height="30px" src="https://img.shields.io/badge/GitShowCase%20-8E2DE2?style=for-the-badge&logo=github&logoColor=white"/></a>
+ <a href="https://www.buymeacoffee.com/RamonAlves" target="_blank"><img height="30px" src="https://img.shields.io/badge/ByMeACoffee-f9fbb2?style=for-the-badge&logo=buy-me-a-coffee&Color=white%22"></a>
 <br>
 
 <h2>My Skills</h2>
